@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vampireschester244/vampireschester244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +38,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a Python Full Stack Developer, Data Analyst and ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing and collaborating 👯 to frontend and backend for building web applications.
 
 - 👨‍🔬: Result oriented data analytics professional possessing proven track record of successfully applying econometric modelling, algorithm development & machine learning techniques to solve key business problems
 
@@ -48,7 +46,7 @@ I am a Python Full Stack Developer, Data Analyst and ML Engineer <img src="https
 
 - ![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)If you come across my profile and like my work.     Please consider to sponsor my work
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: 💬 Ask me anything about Python... How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ## Frameworks and Libraries
 
