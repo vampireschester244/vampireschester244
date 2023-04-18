@@ -44,9 +44,9 @@ I am a Python Full Stack Developer, Data Analyst and ML Engineer <img src="https
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 👨‍🔬: Result oriented data analytics professional possessing proven track record of successfully applying econometric modelling, algorithm development & machine learning techniques to solve key business problems
 
-- [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)If you come across my profile and like my work.     Please consider to sponsor my work
+- ![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)If you come across my profile and like my work.     Please consider to sponsor my work
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
