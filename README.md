@@ -46,7 +46,7 @@ I am a Python Full Stack Developer, Data Analyst and ML Engineer <img src="https
 
 - ![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)If you come across my profile and like my work.     Please consider to sponsor my work
 
-- :mailbox: 💬 Ask me anything about Python... How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: 💬 Ask me anything about Python... How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ## Frameworks and Libraries
 
