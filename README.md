@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 I am a Python Full Stack Developer, Data Analyst and ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
 - 👨‍🔬: Result oriented data analytics professional possessing proven track record of successfully applying econometric modelling, algorithm development & machine learning techniques to solve key business problems
+
+- 👨‍🎓: Avid reader 
 
 - ![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)If you come across my profile and like my work.     Please consider to sponsor my work
 
